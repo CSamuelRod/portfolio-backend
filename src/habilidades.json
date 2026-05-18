@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "nombre": "Java 17+",
+    "categoria": {
+      "es": "Lenguajes",
+      "en": "Languages",
+      "fr": "Langages"
+    },
+    "descripcion": {
+      "es": "Desarrollo robusto con programación orientada a objetos (POO), colecciones y concurrencia.",
+      "en": "Robust development with object-oriented programming (OOP), collections, and concurrency.",
+      "fr": "Développement robuste avec programmation orientée objets (POO), collections et concurrence."
+    },
+    "top": true,
+    "estado": "dominado"
+  },
+  {
+    "id": 2,
+    "nombre": "Spring Boot",
+    "categoria": {
+      "es": "Frameworks",
+      "en": "Frameworks",
+      "fr": "Frameworks"
+    },
+    "descripcion": {
+      "es": "Ecosistema completo: MVC, Data JPA, Security para APIs REST seguras y eficientes.",
+      "en": "Complete ecosystem: MVC, Data JPA, Security for secure and efficient REST APIs.",
+      "fr": "Écosystème complet : MVC, Data JPA, Security para des APIs REST sécurisées et efficaces."
+    },
+    "top": true,
+    "estado": "dominado"
+  },
+  {
+    "id": 3,
+    "nombre": "SQL & Optimización",
+    "categoria": {
+      "es": "Bases de Datos",
+      "en": "Databases",
+      "fr": "Bases de Données"
+    },
+    "descripcion": {
+      "es": "Diseño relacional avanzado, optimización de consultas complejas y procedimientos almacenados (PL/SQL).",
+      "en": "Advanced relational design, complex query optimization, and stored procedures (PL/SQL).",
+      "fr": "Conception relationnelle avancée, optimisation de requêtes complexes et procédures stockées (PL/SQL)."
+    },
+    "top": true,
+    "estado": "dominado"
+  },
+  {
+    "id": 4,
+    "nombre": "Apache Kafka",
+    "categoria": {
+      "es": "Eventos & Microservicios",
+      "en": "Events & Microservices",
+      "fr": "Événements & Microservices"
+    },
+    "descripcion": {
+      "es": "Explorando la gestión de flujos de datos distribuidos en tiempo real y arquitectura orientada a eventos (EDA).",
+      "en": "Exploring real-time distributed data stream management and event-driven architecture (EDA).",
+      "fr": "Exploration de la gestion des flux de données distribués en temps réel et de l'architecture orientée événements (EDA)."
+    },
+    "top": true,
+    "estado": "aprendizaje"
+  },
+  {
+    "id": 5,
+    "nombre": "RabbitMQ",
+    "categoria": {
+      "es": "Eventos & Microservicios",
+      "en": "Events & Microservices",
+      "fr": "Événements & Microservices"
+    },
+    "descripcion": {
+      "es": "Estudiando el intercambio de mensajes asíncronos mediante colas (AMQP) para desacoplar microservicios.",
+      "en": "Studying asynchronous message exchange via queues (AMQP) to decouple microservices.",
+      "fr": "Étude de l'échange de messages asynchrones via des files d'attente (AMQP) pour découpler les microservices."
+    },
+    "top": true,
+    "estado": "aprendizaje"
+  },
+  {
+    "id": 6,
+    "nombre": "Kotlin",
+    "categoria": {
+      "es": "Lenguajes",
+      "en": "Languages",
+      "fr": "Langages"
+    },
+    "descripcion": {
+      "es": "Desarrollo backend moderno e interoperable con Java, enfocado en código conciso y seguro contra nulos.",
+      "en": "Modern backend development interoperable with Java, focused on concise and null-safe code.",
+      "fr": "Développement backend moderne et interchangeable avec Java, axé sur un code concis et sécurisé contre les nuls."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 7,
+    "nombre": "Java EE / Jakarta",
+    "categoria": {
+      "es": "Backend Core",
+      "en": "Backend Core",
+      "fr": "Cœur Backend"
+    },
+    "descripcion": {
+      "es": "Mantenimiento y desarrollo en aplicaciones empresariales usando Servlets, JSP y JDBC nativo.",
+      "en": "Maintenance and development in enterprise applications using Servlets, JSP, and native JDBC.",
+      "fr": "Maintenance et développement d'applications d'entreprise à l'aide de Servlets, JSP et JDBC natif."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 8,
+    "nombre": "PostgreSQL / Oracle",
+    "categoria": {
+      "es": "Bases de Datos",
+      "en": "Databases",
+      "fr": "Bases de Données"
+    },
+    "descripcion": {
+      "es": "Gestión avanzada de datos corporativos y lógica de negocio integrada en base de datos.",
+      "en": "Advanced corporate data management and business logic integrated into the database.",
+      "fr": "Gestion avancée des données d'entreprise et logique métier intégrée dans la base de données."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 9,
+    "nombre": "Spring Security",
+    "categoria": {
+      "es": "Seguridad",
+      "en": "Security",
+      "fr": "Sécurité"
+    },
+    "descripcion": {
+      "es": "Configuración de filtros de seguridad, mitigación de inyecciones SQL y protección de endpoints.",
+      "en": "Security filter configuration, SQL injection mitigation, and endpoint protection.",
+      "fr": "Configuration des filtres de sécurité, atténuation des injections SQL et protection des points de terminaison."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 10,
+    "nombre": "JasperReports",
+    "categoria": {
+      "es": "Herramientas",
+      "en": "Tools",
+      "fr": "Outils"
+    },
+    "descripcion": {
+      "es": "Diseño y generación automatizada de informes corporativos complejos y documentos PDF.",
+      "en": "Automated design and generation of complex corporate reports and PDF documents.",
+      "fr": "Conception et génération automatisées de rapports d'entreprise complexes et de documents PDF."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 11,
+    "nombre": "Git & GitHub",
+    "categoria": {
+      "es": "Herramientas",
+      "en": "Tools",
+      "fr": "Outils"
+    },
+    "descripcion": {
+      "es": "Control de versiones avanzado, gestión de ramas, code reviews y flujos de trabajo en equipo.",
+      "en": "Advanced version control, branch management, code reviews, and team workflows.",
+      "fr": "Contrôle de versions avancé, gestion des branches, revues de code et flux de travail en équipe."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 12,
+    "nombre": "JavaScript (ES6+)",
+    "categoria": {
+      "es": "Frontend",
+      "en": "Frontend",
+      "fr": "Frontend"
+    },
+    "descripcion": {
+      "es": "Lógica en cliente, interactividad fluida e integración nativa con APIs mediante Fetch/Async-Await.",
+      "en": "Client-side logic, smooth interactivity, and native API integration using Fetch/Async-Await.",
+      "fr": "Logique côté client, interactivité fluide et intégration d'API native via Fetch/Async-Await."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 13,
+    "nombre": "HTML5 & CSS3",
+    "categoria": {
+      "es": "Frontend",
+      "en": "Frontend",
+      "fr": "Frontend"
+    },
+    "descripcion": {
+      "es": "Estructuración semántica de páginas web y diseño responsive adaptado a cualquier dispositivo.",
+      "en": "Semantic structuring of web pages and responsive design adapted to any device.",
+      "fr": "Structuration sémantique des pages web et design réactif adapté à tout appareil."
+    },
+    "top": false,
+    "estado": "dominado"
+  },
+  {
+    "id": 14,
+    "nombre": "Docker",
+    "categoria": {
+      "es": "Herramientas",
+      "en": "Tools",
+      "fr": "Outils"
+    },
+    "descripcion": {
+      "es": "Contenedorización de aplicaciones backend para asegurar la paridad de entornos.",
+      "en": "Containerization of backend applications to ensure environment parity.",
+      "fr": "Conteneurisation d'applications backend pour assurer la parité des environnements."
+    },
+    "top": false,
+    "estado": "dominado"
+  }
+]
